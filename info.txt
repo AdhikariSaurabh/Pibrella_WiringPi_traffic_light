@@ -1,0 +1,40 @@
+*****************************************************
+File_name	: info.txt
+Contains	: Info on backup code
+Common Header	: pibrella.h & timer.h
+*****************************************************
+
+Date : 20-10-2016
+Time : 6:58 PM 
+Info : working_code_1.c & working_code_1 backedup
+Work : Initialize all LED and glows RED Led alone & when the big red button is pressed then it goes to all Led blink @ once.
+
+Date : 22-10-2016
+Time : 11:10 AM
+Info : working_code_2.c which is backup of new_sample_ver1.c binary not compiled.
+Work : Made some changes to work
+
+Date : 22-10-2016
+Time : 4:42 PM
+Info : Working_code_3.c code with timer function blinking @ 1 and 2 MHZ needs to be fixed.
+Work : Other than that everything is fixed.
+
+Date : 23-10-2016
+Time : 12:41 PM
+Info : Working_code_4.c code everything fixed and timer preceision needed
+Work : working in 1MHZ and 2MHZ
+
+Date : 23-10-2016
+Time : 12:53 PM
+Info : Working_Code_5.c fixed with piezo buzzer
+Work : working in 1MHZ and 2MHZ and piezo buzzer.
+
+Date : 24-10-2016
+Time : 8:30 PM
+Info : Working_Code_6.c fixed blink properly
+Work : PWM needs to work properly
+
+Date : 26-10-2016
+Time : 5:24 PM
+Info : Working_Code_7.c fixed blink properly & buzzer properly
+Work : PWM fixed properly
